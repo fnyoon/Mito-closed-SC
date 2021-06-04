@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "ボンベルタ伊勢甚"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.45647278428078,
+          36.36472082541357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "サントピア水戸"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.4723246395588,
+          36.37471499601056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "丸井水戸店"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.47743692994118,
+          36.37147877467984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "MIMO(ミーモ)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.47129198908806,
+          36.37538986670948
+        ]
+      }
+    }
+  ]
+}
